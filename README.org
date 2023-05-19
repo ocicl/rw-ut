@@ -1,0 +1,9 @@
+* rw-ut
+
+Utility for reading and writing universal time integers as strings (ISO-8601 by default).
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nallen05/rw-ut.git |
+| commit  | 7535c35                                   |
+| systems | rw-ut                                     |
+|---------+-------------------------------------------|
